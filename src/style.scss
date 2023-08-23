@@ -1,0 +1,15 @@
+
+@import 'bootstrap/scss/bootstrap.scss';
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgb(9,27,39);
+    background: linear-gradient(107deg, rgba(9,27,39,1) 0%, rgba(23,63,88,1) 50%);
+}
+*{
+    user-select: none;
+    color: white;
+}
